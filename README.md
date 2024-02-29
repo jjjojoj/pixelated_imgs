@@ -14,7 +14,7 @@ Imaging Library (PIL) module. Avaliable in  ('.png', '.jpg', '.jpeg').
 4. Create a folder named `imgs` in the same directory as the script.
 5. Place your original images inside the `imgs` folder, and run the script
 
-## Adjust script parameters:
+## Adjust Parameters:
 
    radius: radius of circles or pixels.
    
