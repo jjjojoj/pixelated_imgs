@@ -2,7 +2,24 @@
 
 This Python script performs various image processing tasks using the Python
 Imaging Library (PIL) module. Avaliable in  ('.png', '.jpg', '.jpeg'). 
-It provides the following functionalities:
+
+## Usage
+
+1. Install required libraries:
+   pip install Pillow
+2. Download the code
+3. Create a folder named `imgs` in the same directory as the script.
+4. Place your original images inside the `imgs` folder, and run the script
+
+## Adjust script parameters:
+
+    radius: Radius of circles or pixels.
+    '''radius = 30  # radius'''
+
+    offset: Spacing between circles or pixels.
+   ''' offset = 4  # spacing'''
+    
+## It provides the following functionalities:
 
 1. **Pixelated Image with Black 
 Background (c_b_b):**
@@ -30,15 +47,4 @@ Background (c_b_b):**
 Original image:![ct](https://github.com/jjjojoj/pixelated_imgs/assets/88077783/4bbeab13-7937-41d8-bf20-64377d636cb6)
 
 
-## Usage
 
-1. Install required libraries:
-   pip install Pillow
-2. Download the code
-3. Create a folder named `imgs` in the same directory as the script.
-4. Place your original images inside the `imgs` folder, and run the script
-
-## Adjust script parameters:
-
-    radius: Radius of circles or pixels.
-    offset: Spacing between circles or pixels.
