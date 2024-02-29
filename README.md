@@ -26,7 +26,7 @@ Imaging Library (PIL) module. Avaliable in  ('.png', '.jpg', '.jpeg').
          offset = 4  
 
     
-## It provides the following functionalities:
+## It provides the following styles:
 
 1. **Pixelated Image with Black 
 Background (c_b_b):**
