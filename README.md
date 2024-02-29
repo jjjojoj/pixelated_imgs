@@ -3,6 +3,7 @@
 This Python script performs various image processing tasks using the Python
 Imaging Library (PIL) module. Avaliable in  ('.png', '.jpg', '.jpeg'). 
 
+
 ## Usage
 
 1. Install required libraries:
@@ -14,10 +15,13 @@ Imaging Library (PIL) module. Avaliable in  ('.png', '.jpg', '.jpeg').
 ## Adjust script parameters:
 
    radius: radius of circles or pixels.
+   
        ```  radius = 30  ``` 
        
    offset: Spacing between circles or pixels.
+   
        ```  offset = 4  ``` 
+
     
 ## It provides the following functionalities:
 
