@@ -16,6 +16,7 @@ Imaging Library (PIL) module. Avaliable in  ('.png', '.jpg', '.jpeg').
 6. Run the script, you will see four different style pops out.
 
 ## Adjust Parameters:
+Before running the script, you can adjust the following parameters to customize the output.
 
    radius: radius of circles or pixels.
    
