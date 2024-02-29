@@ -13,11 +13,10 @@ Imaging Library (PIL) module. Avaliable in  ('.png', '.jpg', '.jpeg').
 
 ## Adjust script parameters:
 
-    radius: Radius of circles or pixels.
-    '''radius = 30  # radius'''
-
-    offset: Spacing between circles or pixels.
-   ''' offset = 4  # spacing'''
+   radius: radius of circles or pixels.
+      ''' radius = 30 '''
+   offset: Spacing between circles or pixels.
+      ''' offset = 4 '''
     
 ## It provides the following functionalities:
 
