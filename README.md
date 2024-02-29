@@ -12,7 +12,8 @@ Imaging Library (PIL) module. Avaliable in  ('.png', '.jpg', '.jpeg').
 
 3. Download the code
 4. Create a folder named `imgs` in the same directory as the script.
-5. Place your original images inside the `imgs` folder, and run the script
+5. Place your original images inside the `imgs` folder.
+6. Run the script, you will see four different style pops out.
 
 ## Adjust Parameters:
 
