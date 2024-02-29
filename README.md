@@ -7,10 +7,12 @@ Imaging Library (PIL) module. Avaliable in  ('.png', '.jpg', '.jpeg').
 ## Usage
 
 1. Install required libraries:
-   pip install Pillow
-2. Download the code
-3. Create a folder named `imgs` in the same directory as the script.
-4. Place your original images inside the `imgs` folder, and run the script
+   
+   `pip install Pillow`
+
+3. Download the code
+4. Create a folder named `imgs` in the same directory as the script.
+5. Place your original images inside the `imgs` folder, and run the script
 
 ## Adjust script parameters:
 
