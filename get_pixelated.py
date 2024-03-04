@@ -84,7 +84,7 @@ offset = 4  # spacing
 folder_path = 'imgs'
 for filename in os.listdir(folder_path):
     if filename.lower().endswith(
-            ('.png', '.jpg', '.jpeg', '.gif')):
+            ('.png', '.jpg', '.jpeg')):
         file_path = os.path.join(folder_path, filename)
         image = Image.open(file_path)
         c_b_b(image, filename, radius, offset)
